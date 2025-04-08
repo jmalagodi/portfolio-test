@@ -2,3 +2,8 @@ html
 {
   
 }
+#projects li
+{
+  float: left;
+}
+
