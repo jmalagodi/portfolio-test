@@ -3,6 +3,7 @@ html {
 }
 #projects li {
   float: left;
+  gap: 20px;
   list-style: none;
 }
 
