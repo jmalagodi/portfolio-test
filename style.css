@@ -2,8 +2,7 @@ html
 {
   
 }
-#projects li
-{
+#projects li {
   float: left;
   list-style: none;
 }
